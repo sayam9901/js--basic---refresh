@@ -1,0 +1,25 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+}
+
+.input-container {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+input, button {
+    margin-right: 10px;
+}
+
+#inventoryList {
+    margin-top: 20px;
+}
+
+.inventory-item {
+    margin-bottom: 10px;
+}
+
+.reduce-input-container {
+    margin-top: 5px;
+}
